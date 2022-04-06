@@ -91,4 +91,4 @@ while running == True:
 
 
 
-pygame.quit()
+pygame.quit() #je test voir si je peux écrire
